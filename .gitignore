@@ -1,0 +1,50 @@
+# ============================================================
+# 위니쿠키 챗봇 프로젝트 .gitignore
+# ============================================================
+
+# --- 모델 및 대용량 바이너리 ---
+**/0000*_adapters.safetensors
+RAG/chroma_db/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+
+# --- Jupyter Notebook ---
+.ipynb_checkpoints/
+
+# --- 백업 파일 ---
+*.bk
+*.bak
+*.bak2
+
+# --- 압축 파일 ---
+*.zip
+
+# --- macOS ---
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# --- 환경 변수 (향후 사용 시) ---
+.env
+.env.local
+
+# --- IDE ---
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- 개인 학습 기록 ---
+진행사항 정리/
+
+# --- 개발 백업 및 참고 자료 ---
+RAG/bk/
+RAG/RAG 정보 정리/
+RAG/RAG_세션_진행내용_정리.md
+RAG/RAG_파이프라인_학습정리.md

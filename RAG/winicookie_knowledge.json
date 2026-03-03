@@ -1,0 +1,232 @@
+[
+    {
+        "id": "store_name",
+        "category": "가게정보",
+        "content": "위니쿠키는 수제 쿠키 전문점입니다."
+    },
+    {
+        "id": "store_contact",
+        "category": "가게정보",
+        "content": "위니쿠키 연락처는 010-3387-5313입니다."
+    },
+    {
+        "id": "store_address",
+        "category": "위치",
+        "content": "위니쿠키는 충북 청주시 청원구 내수읍 충청대로 900-2 1층에 있습니다."
+    },
+    {
+        "id": "store_directions",
+        "category": "위치",
+        "content": "충청대로를 따라 오시다 파크랜드 간판이 보이면 속도를 줄이고, 파크랜드 지나 하우트커피베이커리 앞으로 들어오시면 됩니다."
+    },
+    {
+        "id": "store_landmark",
+        "category": "위치",
+        "content": "위니쿠키는 파크랜드와 하우트커피베이커리 근처에 있습니다."
+    },
+    {
+        "id": "store_parking",
+        "category": "위치",
+        "content": "위니쿠키 앞쪽에 공용주차장이 있습니다."
+    },
+    {
+        "id": "hours_weekday",
+        "category": "영업시간",
+        "content": "위니쿠키 영업시간은 월요일부터 토요일까지 오전 10시 30분부터 오후 5시까지입니다."
+    },
+    {
+        "id": "hours_closed",
+        "category": "영업시간",
+        "content": "위니쿠키는 일요일이 정기휴무입니다."
+    },
+    {
+        "id": "hours_early_close",
+        "category": "영업시간",
+        "content": "재료 소진 시 조기 마감될 수 있으므로 방문 전 전화로 확인하는 것이 좋습니다."
+    },
+    {
+        "id": "order_method",
+        "category": "주문",
+        "content": "위니쿠키는 매장 방문, 전화 주문, 온라인 주문 모두 가능합니다."
+    },
+    {
+        "id": "order_reservation",
+        "category": "주문",
+        "content": "위니쿠키는 전화로 예약 주문이 가능합니다. 010-3387-5313으로 연락하시면 됩니다."
+    },
+    {
+        "id": "order_bulk",
+        "category": "주문",
+        "content": "위니쿠키는 대량 주문과 단체 주문이 가능합니다. 010-3387-5313으로 미리 연락하시면 상담 가능합니다."
+    },
+    {
+        "id": "order_packaging",
+        "category": "주문",
+        "content": "위니쿠키는 포장과 선물 포장이 가능합니다."
+    },
+    {
+        "id": "order_no_delivery",
+        "category": "주문",
+        "content": "위니쿠키는 현재 배달을 운영하지 않습니다. 매장 방문, 전화 주문, 온라인 주문으로 이용 가능합니다."
+    },
+    {
+        "id": "order_payment",
+        "category": "주문",
+        "content": "결제 방법은 매장에서 확인하거나 010-3387-5313으로 문의하시면 안내받을 수 있습니다."
+    },
+    {
+        "id": "order_daily_stock",
+        "category": "주문",
+        "content": "당일 준비된 쿠키는 매장 상황에 따라 달라질 수 있습니다. 방문 전 010-3387-5313으로 문의하시면 확인 가능합니다."
+    },
+    {
+        "id": "order_expiry",
+        "category": "주문",
+        "content": "유통기한 관련 문의는 010-3387-5313으로 연락하시면 안내받을 수 있습니다."
+    },
+    {
+        "id": "menu_list",
+        "category": "메뉴",
+        "content": "위니쿠키 메뉴는 비스퀴, 르뱅쿠키, 초코퍼지, 아망디오쇼콜라, 카야잼쿠키, 오렌지쿠키, 사브레쿠키, 크랜베리&화이트초코칩, 땅콩버터쿠키, 딸기잼쿠키, 헤이!누텔라쿠키, 헤이즐넛둘세쿠키, 메이플피칸쿠키, 하트버터쿠키, 휘낭시에, 버터쿠키 총 16종입니다."
+    },
+    {
+        "id": "menu_bisqui",
+        "category": "메뉴",
+        "content": "비스퀴 가격은 3,700원입니다."
+    },
+    {
+        "id": "menu_levain",
+        "category": "메뉴",
+        "content": "르뱅쿠키 가격은 4,300원입니다."
+    },
+    {
+        "id": "menu_choco_fudge",
+        "category": "메뉴",
+        "content": "초코퍼지 가격은 3,500원입니다."
+    },
+    {
+        "id": "menu_amandio",
+        "category": "메뉴",
+        "content": "아망디오쇼콜라 가격은 2,600원입니다."
+    },
+    {
+        "id": "menu_kaya_jam",
+        "category": "메뉴",
+        "content": "카야잼쿠키 가격은 2,900원입니다."
+    },
+    {
+        "id": "menu_orange",
+        "category": "메뉴",
+        "content": "오렌지쿠키 가격은 2,600원입니다."
+    },
+    {
+        "id": "menu_sable",
+        "category": "메뉴",
+        "content": "사브레쿠키 가격은 2,200원입니다."
+    },
+    {
+        "id": "menu_cranberry_whitechoco",
+        "category": "메뉴",
+        "content": "크랜베리&화이트초코칩 가격은 2,600원입니다."
+    },
+    {
+        "id": "menu_peanut_butter",
+        "category": "메뉴",
+        "content": "땅콩버터쿠키 가격은 2,300원입니다."
+    },
+    {
+        "id": "menu_strawberry_jam",
+        "category": "메뉴",
+        "content": "딸기잼쿠키 가격은 2,900원입니다."
+    },
+    {
+        "id": "menu_nutella",
+        "category": "메뉴",
+        "content": "헤이!누텔라쿠키 가격은 2,900원입니다."
+    },
+    {
+        "id": "menu_hazelnut_dulce",
+        "category": "메뉴",
+        "content": "헤이즐넛둘세쿠키 가격은 2,900원입니다."
+    },
+    {
+        "id": "menu_maple_pecan",
+        "category": "메뉴",
+        "content": "메이플피칸쿠키 가격은 2,600원입니다."
+    },
+    {
+        "id": "menu_heart_butter",
+        "category": "메뉴",
+        "content": "하트버터쿠키 가격은 2,700원입니다."
+    },
+    {
+        "id": "menu_financier",
+        "category": "메뉴",
+        "content": "휘낭시에 가격은 2,800원입니다."
+    },
+    {
+        "id": "menu_butter",
+        "category": "메뉴",
+        "content": "버터쿠키 가격은 2,200원입니다."
+    },
+    {
+        "id": "menu_price_range",
+        "category": "메뉴",
+        "content": "위니쿠키 가격대는 2,200원부터 4,300원까지입니다. 가장 비싼 메뉴는 르뱅쿠키(4,300원)이고, 가장 저렴한 메뉴는 사브레쿠키와 버터쿠키(2,200원)입니다."
+    },
+    {
+        "id": "recommend_popular",
+        "category": "추천",
+        "content": "위니쿠키 인기 메뉴는 르뱅쿠키와 비스퀴입니다. 초코를 좋아하시면 초코퍼지도 추천합니다."
+    },
+    {
+        "id": "recommend_choco",
+        "category": "추천",
+        "content": "위니쿠키 초코 계열 쿠키는 초코퍼지, 아망디오쇼콜라, 크랜베리&화이트초코칩, 헤이!누텔라쿠키입니다."
+    },
+    {
+        "id": "recommend_jam",
+        "category": "추천",
+        "content": "위니쿠키 잼 계열 쿠키는 카야잼쿠키와 딸기잼쿠키입니다."
+    },
+    {
+        "id": "recommend_nut",
+        "category": "추천",
+        "content": "위니쿠키 견과류 계열 쿠키는 땅콩버터쿠키, 헤이즐넛둘세쿠키, 메이플피칸쿠키입니다."
+    },
+    {
+        "id": "menu_only_cookie",
+        "category": "메뉴",
+        "content": "위니쿠키는 쿠키 전문점으로 쿠키와 휘낭시에만 판매합니다. 케이크, 마카롱, 빵, 음료 등은 판매하지 않습니다."
+    },
+    {
+        "id": "menu_no_drink",
+        "category": "메뉴",
+        "content": "위니쿠키는 아메리카노, 라떼 등 음료를 판매하지 않습니다. 쿠키와 휘낭시에만 구매 가능합니다."
+    },
+    {
+        "id": "store_single_branch",
+        "category": "가게정보",
+        "content": "위니쿠키는 충북 청주시 청원구 내수읍에 본점 한 곳만 운영하고 있습니다. 강남점, 홍대점 등 다른 지점은 없습니다."
+    },
+    {
+        "id": "hours_sunday_closed",
+        "category": "영업시간",
+        "content": "일요일에는 위니쿠키가 운영하지 않습니다. 일요일은 정기휴무이며 월요일부터 토요일까지만 영업합니다."
+    },
+    {
+        "id": "hours_no_late_night",
+        "category": "영업시간",
+        "content": "위니쿠키는 오후 5시에 마감합니다. 저녁이나 야간에는 운영하지 않습니다."
+    },
+    {
+        "id": "order_no_custom",
+        "category": "주문",
+        "content": "위니쿠키 메뉴 커스터마이징(재료 변경, 토핑 추가 등)에 대해서는 010-3387-5313으로 문의하시면 안내받을 수 있습니다."
+    },
+    {
+        "id": "menu_no_vegan",
+        "category": "메뉴",
+        "content": "알레르기, 비건, 글루텐프리 등 특수 식이 옵션에 대해서는 010-3387-5313으로 문의하시면 안내받을 수 있습니다."
+    }
+]

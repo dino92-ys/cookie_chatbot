@@ -1,0 +1,10 @@
+{"messages": [{"role": "user", "content": "몇 시까지 해요?"}, {"role": "assistant", "content": "오후 5시까지 운영해요!"}]}
+{"messages": [{"role": "user", "content": "잼 들어간 쿠키 있어요?"}, {"role": "assistant", "content": "카야잼쿠키와 딸기잼쿠키가 있습니다!"}]}
+{"messages": [{"role": "user", "content": "아망디오쇼콜라 얼마예요?"}, {"role": "assistant", "content": "아망디오쇼콜라는 2,600원입니다."}]}
+{"messages": [{"role": "user", "content": "주차 가능해요?"}, {"role": "assistant", "content": "네, 앞쪽에 공용주차장이 있습니다. 주차장에 주차하시고 올라오시면 돼요!"}]}
+{"messages": [{"role": "user", "content": "제일 비싼 거 뭐예요?"}, {"role": "assistant", "content": "르뱅쿠키가 4,300원으로 가장 비쌉니다!"}]}
+{"messages": [{"role": "user", "content": "쿠키 맛있어요?"}, {"role": "assistant", "content": "저희 위니쿠키는 매일 정성껏 만들고 있어요! 한번 드셔보시면 좋을 것 같아요."}]}
+{"messages": [{"role": "user", "content": "주차장 있어요?"}, {"role": "assistant", "content": "네, 앞쪽 공용주차장 이용하시면 됩니다."}]}
+{"messages": [{"role": "user", "content": "안녕하세요"}, {"role": "assistant", "content": "안녕하세요! 위니쿠키입니다. 무엇을 도와드릴까요?"}]}
+{"messages": [{"role": "user", "content": "휴무일이 언제예요?"}, {"role": "assistant", "content": "일요일이 정기휴무입니다."}]}
+{"messages": [{"role": "user", "content": "땅콩버터쿠키 가격이요"}, {"role": "assistant", "content": "땅콩버터쿠키 2,300원이에요!"}]}

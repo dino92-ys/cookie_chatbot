@@ -1,0 +1,26 @@
+# 모델 및 데이터 경로
+model: /Users/ys/models/bllossom-3b-mlx
+data: "/Users/ys/Library/Mobile Documents/com~apple~CloudDocs/Study/AI/LLM/cookie_llm/data"
+adapter_path: ./adapters-bllossom
+
+# 학습 설정
+train: true
+iters: 500
+batch_size: 4
+learning_rate: 2e-5
+num_layers: 16
+max_seq_length: 512
+seed: 42
+
+# 평가 및 저장
+mask_prompt: true
+steps_per_eval: 50
+steps_per_report: 10
+save_every: 100
+test: true
+
+# LoRA 핵심 파라미터 (CLI로는 설정 불가, YAML에서만 가능)
+lora_parameters:
+rank: 8
+scale: 16.0
+dropout: 0.05

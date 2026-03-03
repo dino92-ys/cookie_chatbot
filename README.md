@@ -261,4 +261,5 @@ curl http://localhost:8000/health
 - **주요 라이브러리**: mlx-lm, chromadb, fastapi, requests
 - **로컬 LLM 서빙**: Ollama
 - **벡터 변환**: llama.cpp (GGUF 변환)
->>>>>>> 9b98ec2 (위니쿠키 AI 챗봇: Fine-tuning(Bllossom-3B) + RAG 파이프라인)
+
+

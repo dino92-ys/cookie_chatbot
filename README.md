@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# cookie_chatbot
-cookie store ai chatbot
-=======
 # 🍪 위니쿠키 AI 챗봇 — Fine-tuning + RAG 파이프라인
 
 > 소규모 도메인 특화 챗봇을 **로컬 환경에서** 파인튜닝하고, RAG로 환각(Hallucination)을 제어한 엔드투엔드 프로젝트
